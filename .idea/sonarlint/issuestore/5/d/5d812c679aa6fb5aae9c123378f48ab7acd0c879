@@ -1,0 +1,11 @@
+
+—
+java:S1450"VRemove the "pnlGrid" field and declare it as a local variable in the relevant methods.(ğÏúÿÿÿÿJ$344e1c7d-6cb1-4bb2-a50c-c0aa14c5e859
+h
+java:S1125"'Remove the unnecessary boolean literal.(ã İôûÿÿÿÿJ$c3109b77-6eda-45dc-818f-2a7e20119f7a
+c
+java:S1125"'Remove the unnecessary boolean literal.(å€™J$8164878a-519c-494a-b466-a6cbc80fa38e
+l
+java:S1068"+Remove this unused "pnlGrid" private field.(ğÏúÿÿÿÿJ$37d89fa3-19b5-4a9c-b77e-22b1aa98318b
+h
+java:S1068	"'Remove this unused "win" private field.(°õ¶ÔøÿÿÿÿJ$d6899690-624b-4947-9b80-e109dfc5df6b

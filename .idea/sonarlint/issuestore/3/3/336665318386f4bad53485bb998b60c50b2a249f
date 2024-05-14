@@ -1,0 +1,21 @@
+
+™
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "valor".(ĞÿïÃJ$99a28f78-0871-46ad-bd23-15a4c9222588
+…
+java:S2259'"DA "NullPointerException" could be thrown; "buffer" is nullable here.(×Ôû®ıÿÿÿÿJ$691ee3df-40f4-4d13-b11c-8e75c079f127
+…
+java:S2259!"DA "NullPointerException" could be thrown; "buffer" is nullable here.(×Ôû®ıÿÿÿÿJ$856db4a7-673c-4a66-a62d-699da1cb6333
+€
+java:S2259/"DA "NullPointerException" could be thrown; "buffer" is nullable here.(şï¬J$22a5af79-74ad-43ae-ba33-15bdfc6912ce
+…
+java:S2259,"DA "NullPointerException" could be thrown; "buffer" is nullable here.(×Ôû®ıÿÿÿÿJ$6a19a233-51d4-4d8e-b5e0-7407e976c191
+ˆ
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ÃŠØ©J$8fc58165-a4d0-4c85-93cb-a88a287cea17
+c
+java:S1659""Declare "cols" on a separate line.(ÒĞ¢³øÿÿÿÿJ$e3883370-3d9a-4401-9467-0531c73490d5
+m
+java:S1197",Move the array designators [][] to the type.(ÒĞ¢³øÿÿÿÿJ$e57fa247-6961-4bf4-bc57-0b68dbacf827
+m
+java:S1197",Move the array designators [][] to the type.(ÒĞ¢³øÿÿÿÿJ$e0242339-8168-445d-8000-8ce5cb5c1eb5
+m
+java:S1197",Move the array designators [][] to the type.(½¡•±üÿÿÿÿJ$fd1a853e-a230-40b6-9ec3-b6466e271430

@@ -1,8 +1,15 @@
-# Java-NonogramGame
-Nonograms, also known as Hanjie, Paint by Numbers, Picross, Griddlers, and Pic-a-Pix are picture logic puzzles in which cells in a grid must be colored or left blank according to numbers at the edges of the grid to reveal a hidden picture. In this puzzle, the numbers are a form of discrete tomography that measures how many unbroken lines of filled-in squares there are in any given row or column. For example, a clue of "4 8 3" would mean there are sets of four, eight, and three filled squares, in that order, with at least one blank square between successive sets.
-In this case, I made this simple game by uploading some archives of different types of Nonograms. becouse it could be really boring only solving one puzzle.
-Here is a preview of how iy works:
+## 🎮 Nonograma Project Description
 
+This project is a **Nonogram (Picross) puzzle game** developed in **Java**, designed to challenge players with logic-based grid puzzles.  
+The goal of the game is to fill cells on a grid according to numerical clues, revealing hidden pixel-art images as the player progresses.
+
+Built with a focus on **clean code**, **object-oriented design**, and **modular architecture**, this project demonstrates Java’s capabilities for building interactive and visually engaging desktop applications.
+
+### 🎯 Key Features
+- Interactive Nonogram gameplay with visual feedback.  
+- Dynamic grid generation and puzzle validation.  
+- Clear separation of logic, UI, and game state management.  
+- Scalable and maintainable Java architecture.
 
 ![Nono](https://github.com/StebanJrb/Java-NonogramGame/assets/109133092/8f651d62-7457-4c94-806b-bfabff438862)
 
